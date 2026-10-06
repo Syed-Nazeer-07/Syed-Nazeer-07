@@ -1,115 +1,90 @@
 <div align="center">
 
-# Hi 👋, I'm Syed Nazeer S
+# Hi, I'm Syed Nazeer S 👋
 
-### AI & Full-Stack Developer | Building Intelligent Solutions
+### AI & Full-Stack Developer · Building intelligent, production-minded software
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=AI+Developer;Full-Stack+Engineer;Computer+Vision+Enthusiast;Building+Projects+That+Matter" />
+<a href="https://github.com/Syed-Nazeer-07"><img src="https://img.shields.io/badge/GitHub-Syed--Nazeer--07-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a passionate developer focused on building intelligent applications that combine software engineering, artificial intelligence, and real-world problem solving.
+I'm a Computer Science & Engineering undergraduate at **Hindustan Institute of Technology & Science (HITS), Chennai**. I build applications where software engineering meets AI: computer vision pipelines, decision-support tools, and clean full-stack products.
 
-- 🔭 Building AI-powered applications and modern web platforms
-- 🤖 Interested in Machine Learning, Computer Vision, and Generative AI
-- 🌱 Constantly learning new technologies and frameworks
-- 🎯 Focused on creating scalable, impactful solutions
-- 💡 Turning ideas into products through code
-
----
-
-## 🛠️ Tech Arsenal
-
-### Languages
-
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-![Java](https://skillicons.dev/icons?i=java)
-
-### Frontend
-
-![React](https://skillicons.dev/icons?i=react)
-![NextJS](https://skillicons.dev/icons?i=nextjs)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-
-### Backend
-
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-
-### Database
-
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-
-### AI / ML
-
-![Python](https://skillicons.dev/icons?i=python)
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-blue)
-![OCR](https://img.shields.io/badge/OCR-Text_Recognition-green)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-AI-orange)
+- 🔭 Building browser-native computer vision and AI-powered web apps
+- 🧱 Focused on clean architecture, secure backends, and polished UX
+- 🌱 Currently deepening my skills in applied ML, system design, and cloud deployment
+- 🎯 Goal: ship products that solve real problems, not just demos
 
 ---
 
-## 🌟 Featured Projects
+## 🛠️ Tech Stack
 
-### 🚦 VisionGuard
-AI-powered traffic monitoring and violation detection system leveraging Computer Vision, OCR, Speed Prediction, and Real-Time Analytics.
+**Languages**&nbsp;
+<img src="https://skillicons.dev/icons?i=py,js,ts,java" alt="Languages" />
 
-### 📊 DeveloperDash
-Modern analytics dashboard for developers with insightful metrics and productivity tracking.
+**Frontend**&nbsp;
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend" />
 
-### 🤖 Finora
-Smart financial management platform designed to simplify personal finance and decision-making.
+**Backend**&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend" />
 
-### 🎯 DecisionOS
-Interactive decision-support platform that helps users evaluate and compare choices effectively.
+**Databases & Cloud**&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,vercel" alt="Databases and cloud" />
 
-### 🛒 SwiftCart
-E-commerce application focused on seamless shopping experiences and performance.
+**Tools**&nbsp;
+<img src="https://skillicons.dev/icons?i=git,github,vite" alt="Tools" />
 
----
-
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Syed-Nazeer-07&show_icons=true&theme=transparent&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Syed-Nazeer-07&theme=transparent&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Nazeer-07&layout=compact&theme=transparent&hide_border=true)
+**AI / Computer Vision:** ONNX Runtime Web · YOLO · ByteTrack · WebGPU / WASM · Gemini & OpenRouter APIs
 
 ---
 
-## 🏆 Current Focus
+## 🚀 Featured Projects
 
-- Artificial Intelligence
-- Computer Vision Systems
-- Full-Stack Development
-- Scalable Web Applications
-- Cloud & DevOps
-- Open Source Contributions
+| Project | What it does | Stack | Links |
+| :-- | :-- | :-- | :-- |
+| **🚦 [VisionGuard](https://github.com/Syed-Nazeer-07/VisionGuard)** | AI traffic intelligence platform. Runs YOLO detection and ByteTrack vehicle tracking in the browser, estimates speed, flags rule violations, and stores incidents and evidence for review and analytics. | React · TypeScript · Vite · ONNX Runtime Web · Supabase · Backblaze B2 | [Repo](https://github.com/Syed-Nazeer-07/VisionGuard) |
+| **🎯 [DecisionOS](https://github.com/Syed-Nazeer-07/DecisionOs)** | AI decision-intelligence tool. Turns any decision into an explorable causal map of risks, opportunities, and trade-offs on an infinite canvas, with executive summaries, undo/redo, and cloud sync. | React 19 · Vite · Tailwind v4 · Gemini · OpenRouter · Supabase | [Live](https://decisionos-nine.vercel.app/) · [Repo](https://github.com/Syed-Nazeer-07/DecisionOs) |
+| **💰 [Finora](https://github.com/Syed-Nazeer-07/Finora)** | Full-stack personal finance platform with budgets, goals, transactions, investment tracking, a financial health score, and Google OAuth. Built as my CS50 final project. | Flask · SQLAlchemy · PostgreSQL · Tailwind | [Live](https://finora-nine-puce.vercel.app) · [Demo video](https://youtu.be/Qr60kzJl4Vo) · [Repo](https://github.com/Syed-Nazeer-07/Finora) |
+| **📊 [DeveloperDash](https://github.com/Syed-Nazeer-07/DeveloperDash)** | SaaS-style productivity dashboard for projects and tasks, with analytics, notifications, dark mode, and a typed API layer. | Next.js 15 · TypeScript · Zustand · Shadcn UI · Recharts | [Live](https://developerdash-three.vercel.app) · [Repo](https://github.com/Syed-Nazeer-07/DeveloperDash) |
 
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://github.com/Syed-Nazeer-07">GitHub</a>
-</p>
+> More on my [repositories page](https://github.com/Syed-Nazeer-07?tab=repositories), including SwiftCart (e-commerce) and HangmanGame (Python).
 
 ---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-### "Building technology that solves real problems."
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Syed-Nazeer-07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Nazeer-07&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-⭐ Explore my repositories and let's build something impactful.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-Nazeer-07&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 🎯 Currently Focused On
+
+- 🤖 Computer vision and applied machine learning
+- ⚙️ Full-stack architecture with secure, scalable backends
+- ☁️ Cloud deployment and DevOps fundamentals
+- 🌍 Open-source contributions
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to internships, collaborations, and conversations about AI and web development. Feel free to reach out through [GitHub](https://github.com/Syed-Nazeer-07).
+
+<div align="center">
+
+*"Building technology that solves real problems."*
+
+⭐ Explore my repositories, and let's build something impactful.
 
 </div>
