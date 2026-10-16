@@ -1,11 +1,8 @@
 <div align="center">
 
-# Syed Nazeer S
-
-### AI & Full-Stack Developer
-
-*Building intelligent applications and thoughtful digital experiences.*
-
+Syed Nazeer S
+AI & Full-Stack Developer
+Building intelligent applications and thoughtful digital experiences.
 <p>
   <a href="https://github.com/Syed-Nazeer-07">
     <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub profile">
@@ -14,21 +11,13 @@
 
 </div>
 
----
-
-## 👋 About Me
-
-I'm a Computer Science & Engineering undergraduate at **Hindustan Institute of Technology & Science (HITS), Chennai**. I enjoy working at the intersection of **AI, full-stack engineering, and product design** — turning ideas into useful applications with clean architecture and considered user experiences.
-
+👋 About Me
+I'm a Computer Science & Engineering undergraduate at Hindustan Institute of Technology & Science (HITS), Chennai. I enjoy working at the intersection of AI, full-stack engineering, and product design — turning ideas into useful applications with clean architecture and considered user experiences.
 - 🔭 Building AI-powered applications and browser-based computer vision experiences.
 - 🧩 Interested in maintainable architecture, secure backends, and intuitive interfaces.
 - 🌱 Deepening my skills in applied machine learning, system design, and cloud deployment.
 - 🎯 Motivated by products that solve real problems, not just prototypes.
-
----
-
-## 🧰 Technology
-
+🧰 Technology
 <p align="center">
   <strong>Languages</strong><br>
   <img src="https://skillicons.dev/icons?i=py,js,ts,java" alt="Python, JavaScript, TypeScript, Java">
@@ -59,10 +48,7 @@ I'm a Computer Science & Engineering undergraduate at **Hindustan Institute of T
   ONNX Runtime Web&nbsp; · &nbsp;YOLO&nbsp; · &nbsp;ByteTrack&nbsp; · &nbsp;WebGPU / WebAssembly&nbsp; · &nbsp;Gemini API&nbsp; · &nbsp;OpenRouter
 </p>
 
----
-
-## 🚀 Featured Projects
-
+🚀 Featured Projects
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -93,13 +79,10 @@ I'm a Computer Science & Engineering undergraduate at **Hindustan Institute of T
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 DeveloperDash</h3>
-      <p>A SaaS-style productivity dashboard for project and task management, featuring analytics, notifications, dark mode, and a typed API layer.</p>
-      <p><strong>Built with</strong><br>Next.js · TypeScript · Zustand · shadcn/ui · Recharts</p>
-      <p>
-        <a href="https://developerdash-three.vercel.app">Live Demo ↗</a> ·
-        <a href="https://github.com/Syed-Nazeer-07/DeveloperDash">Source Code</a>
-      </p>
+      <h3>✨ More Projects</h3>
+      <p>Explore additional experiments and applications across web development, software engineering, and Python.</p>
+      <p><strong>More to explore</strong><br>SwiftCart · HangmanGame · Other repositories</p>
+      <p><a href="https://github.com/Syed-Nazeer-07?tab=repositories">Browse Repositories ↗</a></p>
     </td>
   </tr>
 </table>
@@ -108,26 +91,19 @@ I'm a Computer Science & Engineering undergraduate at **Hindustan Institute of T
   <a href="https://github.com/Syed-Nazeer-07?tab=repositories">Explore all repositories ↗</a>
 </p>
 
----
-
-## 📈 GitHub at a Glance
-
+📈 GitHub at a Glance
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Syed-Nazeer-07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Nazeer-07&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages">
 
-<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-Nazeer-07&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
 
 </div>
 
----
-
-## 🎯 What I'm Focused On
-
+🎯 What I'm Focused On
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -151,17 +127,11 @@ I'm a Computer Science & Engineering undergraduate at **Hindustan Institute of T
   </tr>
 </table>
 
----
-
-## 🤝 Connect
-
-I'm open to **internships, collaborations, and conversations** about AI, computer vision, and full-stack development.
-
-- GitHub: [@Syed-Nazeer-07](https://github.com/Syed-Nazeer-07)
-- Projects: [World Museum](https://worldmuseum.vercel.app/) · [VisionGuard](https://github.com/Syed-Nazeer-07/VisionGuard)
-
+🤝 Connect
+I'm open to internships, collaborations, and conversations about AI, computer vision, and full-stack development.
+- GitHub: @Syed-Nazeer-07
+- Projects: World Museum · VisionGuard
 <div align="center">
 
-### *Building technology with purpose.*
-
+Building technology with purpose.
 </div>
