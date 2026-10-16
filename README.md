@@ -87,9 +87,7 @@ I'm a Computer Science & Engineering undergraduate at **Hindustan Institute of T
       <p>A personal-finance application for managing budgets, goals, transactions, investment tracking, and financial-health insights. Developed as a CS50 final project.</p>
       <p><strong>Built with</strong><br>Flask · SQLAlchemy · PostgreSQL · Tailwind CSS</p>
       <p>
-        <a href="https://finora-nine-puce.vercel.app">Live Demo ↗</a> ·
-        <a href="https://youtu.be/Qr60kzJl4Vo">Demo Video</a><br>
-        <a href="https://github.com/Syed-Nazeer-07/Finora">Source Code</a>
+        <a href="https://github.com/Syed-Nazeer-07/Finora">Explore Repository ↗</a>
       </p>
     </td>
     <td width="50%" valign="top">
