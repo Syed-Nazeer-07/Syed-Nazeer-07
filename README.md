@@ -71,7 +71,7 @@ I'm a Computer Science & Engineering undergraduate at **Hindustan Institute of T
       <p><strong>Built with</strong><br>React · TypeScript · Vite · Tailwind CSS</p>
       <p>
         <a href="https://worldmuseum.vercel.app/"><strong>Live Experience ↗</strong></a><br>
-        <a href="https://github.com/Syed-Nazeer-07/WorldMuseum">Source Code</a>
+        <a href="https://github.com/Syed-Nazeer-07/WorldMuseum">Explore Repository ↗</a>
       </p>
     </td>
     <td width="50%" valign="top">
