@@ -2,161 +2,98 @@
 
 # Syed Nazeer S
 
-### AI & Full-Stack Developer
+**Software Engineering · Full-Stack Development · Applied AI**
 
-*Building intelligent applications and thoughtful digital experiences.*
+Computer Science & Engineering undergraduate at **Hindustan Institute of Technology & Science, Chennai**.
+
+*I build thoughtful software—from full-stack products to AI-assisted applications.*
 
 <p>
-  <a href="https://github.com/Syed-Nazeer-07">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub profile">
-  </a>
+  <a href="https://github.com/Syed-Nazeer-07?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-2563EB?style=flat-square&logo=github&logoColor=white" alt="Explore my GitHub repositories" /></a>
+  <a href="mailto:syednazeerofficial2007@gmail.com"><img src="https://img.shields.io/badge/Email_Me-0F172A?style=flat-square&logo=gmail&logoColor=white" alt="Contact me by email" /></a>
 </p>
 
 </div>
 
 ---
 
-## 👋 About Me
+### About me
 
-I'm a Computer Science & Engineering undergraduate at **Hindustan Institute of Technology & Science (HITS), Chennai**. I enjoy working at the intersection of **AI, full-stack engineering, and product design** — turning ideas into useful applications with clean architecture and considered user experiences.
+I'm a B.Tech CSE student (class of **2029**) interested in building reliable, useful software. My work spans **Python backends, modern web applications, and applied AI**, with a focus on clean interfaces, practical engineering, and learning by building.
 
-- 🔭 Building AI-powered applications and browser-based computer vision experiences.
-- 🧩 Interested in maintainable architecture, secure backends, and intuitive interfaces.
-- 🌱 Deepening my skills in applied machine learning, system design, and cloud deployment.
-- 🎯 Motivated by products that solve real problems, not just prototypes.
+- **Currently building:** VisionGuard, an AI-assisted traffic video analysis platform.
+- **Team contribution:** WeatherGPT for Smart India Hackathon 2026, focused on cyclone and historical climate data integrations.
+- **Learning:** Data structures and algorithms, system design, and machine learning.
+- **Education:** First-year CGPA **9.23/10** · Completed **Harvard CS50x**.
+
+### Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,tailwind,flask,nodejs,postgres,mongodb,git&perline=11" alt="Python, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Flask, Node.js, PostgreSQL, MongoDB and Git" />
+</p>
+
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Python, JavaScript, TypeScript, C |
+| **Frontend** | React, Next.js, HTML, CSS, Tailwind CSS |
+| **Backend** | Flask, FastAPI, Node.js, Express.js, REST APIs |
+| **Databases & ORM** | PostgreSQL, MongoDB, SQLite, SQLAlchemy, Supabase |
+| **AI & computer vision** | Gemini API, OpenRouter, YOLO, ONNX Runtime, OpenCV |
+| **Engineering tools** | Git, GitHub, Pytest, Vite, Railway, Vercel |
+
+### Selected projects
+
+#### [Finora](https://github.com/Syed-Nazeer-07/Finora) — Personal finance, built end to end
+
+A full-stack finance application for **transactions, budgets, savings goals, investment tracking, and financial dashboards**. Includes Google OAuth, relational data models, and API tests. Built as my **CS50x final project**.
+
+`Python` · `Flask` · `PostgreSQL` · `SQLAlchemy` · `Tailwind CSS`
+
+[**View source →**](https://github.com/Syed-Nazeer-07/Finora)
+
+#### [VisionGuard](https://github.com/Syed-Nazeer-07/VisionGuard) — AI traffic intelligence
+
+An **in-development** video analytics platform exploring vehicle detection, object tracking, and incident review. It combines browser-based inference with an optional local Python processing service.
+
+`React` · `TypeScript` · `FastAPI` · `YOLO` · `ONNX Runtime` · `Supabase`
+
+[**View source →**](https://github.com/Syed-Nazeer-07/VisionGuard)
+
+#### [WeatherGPT](https://github.com/NIRANJAN-R062007/WeatherGPT_SIH2026) — Multilingual weather assistant · Team project
+
+Contributed to a **Smart India Hackathon 2026** team project built around data-grounded weather answers. My work focused on **GDACS cyclone ingestion**, **Open-Meteo / ERA5 historical climate data**, validation tests, fallbacks, and data-source attribution.
+
+`Python` · `FastAPI` · `GDACS` · `Open-Meteo` · `Pytest`
+
+[**View team repository →**](https://github.com/NIRANJAN-R062007/WeatherGPT_SIH2026)
+
+#### [DecisionOS](https://github.com/Syed-Nazeer-07/DecisionOs) — AI-assisted decision mapping
+
+An interactive decision-mapping app that uses LLMs to explore **risks, opportunities, trade-offs, and potential outcomes** through expandable causal trees. Supports local persistence, optional cloud sync, and a no-key demo mode.
+
+`React` · `JavaScript` · `Supabase` · `Gemini API` · `OpenRouter`
+
+[**Live demo →**](https://decisionos-nine.vercel.app/) · [**Source →**](https://github.com/Syed-Nazeer-07/DecisionOs)
+
+<details>
+<summary><strong>More projects</strong></summary>
+
+- **[World Museum](https://github.com/Syed-Nazeer-07/WorldMuseum)** — Interactive Earth-history exhibits and World Atlas, built with React and TypeScript. [Live experience](https://worldmuseum.vercel.app/).
+- **[SwiftCart](https://github.com/Syed-Nazeer-07/SwiftCart)** — MERN e-commerce application with products, cart, authentication, and order workflows.
+- **[DeveloperDash](https://github.com/Syed-Nazeer-07/DeveloperDash)** — Project and task dashboard built with Next.js and TypeScript.
+
+</details>
+
+### What I'm working toward
+
+I'm strengthening my foundations in **algorithms, backend engineering, software architecture, and applied machine learning**, while continuing to improve and test the projects I build. I'm interested in **software engineering internships**, technical collaboration, and opportunities to learn from experienced teams.
 
 ---
-
-## 🧰 Technology
-
-<p align="center">
-  <strong>Languages</strong><br>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,java" alt="Python, JavaScript, TypeScript, Java">
-</p>
-
-<p align="center">
-  <strong>Frontend</strong><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="React, Next.js, Tailwind CSS, HTML, CSS">
-</p>
-
-<p align="center">
-  <strong>Backend</strong><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Node.js, Express, Flask">
-</p>
-
-<p align="center">
-  <strong>Databases & Cloud</strong><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,vercel" alt="PostgreSQL, MongoDB, MySQL, Supabase, Vercel">
-</p>
-
-<p align="center">
-  <strong>Tools</strong><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vite" alt="Git, GitHub, Vite">
-</p>
-
-<p align="center">
-  <strong>AI & Computer Vision</strong><br>
-  ONNX Runtime Web&nbsp; · &nbsp;YOLO&nbsp; · &nbsp;ByteTrack&nbsp; · &nbsp;WebGPU / WebAssembly&nbsp; · &nbsp;Gemini API&nbsp; · &nbsp;OpenRouter
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌍 World Museum</h3>
-      <p>An immersive digital museum tracing 4.54 billion years of Earth's history, from planetary formation and the evolution of life to human civilization and space exploration — culminating in a contemporary World Atlas.</p>
-      <p><strong>Built with</strong><br>React · TypeScript · Vite · Tailwind CSS</p>
-      <p>
-        <a href="https://worldmuseum.vercel.app/"><strong>Live Experience ↗</strong></a><br>
-        <a href="https://github.com/Syed-Nazeer-07/WorldMuseum">Explore Repository ↗</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚦 VisionGuard</h3>
-      <p>An AI traffic-intelligence platform exploring road-user detection, object tracking, video analysis, and incident-review workflows through browser-based inference and a configurable local processing service.</p>
-      <p><strong>Built with</strong><br>React · TypeScript · Vite · ONNX Runtime Web · Supabase · Backblaze B2</p>
-      <p><a href="https://github.com/Syed-Nazeer-07/VisionGuard">Explore Repository ↗</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💰 Finora</h3>
-      <p>A personal-finance application for managing budgets, goals, transactions, investment tracking, and financial-health insights. Developed as a CS50 final project.</p>
-      <p><strong>Built with</strong><br>Flask · SQLAlchemy · PostgreSQL · Tailwind CSS</p>
-      <p>
-        <a href="https://github.com/Syed-Nazeer-07/Finora">Explore Repository ↗</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✨ More Projects</h3>
-      <p>Explore additional experiments and applications across web development, software engineering, and Python.</p>
-      <p><strong>More to explore</strong><br>SwiftCart · HangmanGame · Other repositories</p>
-      <p><a href="https://github.com/Syed-Nazeer-07?tab=repositories">Browse Repositories ↗</a></p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/Syed-Nazeer-07?tab=repositories">Explore all repositories ↗</a>
-</p>
-
----
-
-## 📈 GitHub at a Glance
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Syed-Nazeer-07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics">
+**Build with curiosity. Engineer with care.**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Nazeer-07&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages">
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-Nazeer-07&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
-
-</div>
-
----
-
-## 🎯 What I'm Focused On
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>🤖 Applied AI</strong><br>
-      Computer vision, model integration, and practical machine-learning workflows.
-    </td>
-    <td width="50%" valign="top">
-      <strong>⚙️ Software Engineering</strong><br>
-      Clean architecture, typed interfaces, secure APIs, and maintainable code.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>☁️ Cloud & Delivery</strong><br>
-      Deployment workflows, backend fundamentals, and reliable application delivery.
-    </td>
-    <td width="50%" valign="top">
-      <strong>🌐 Product Experience</strong><br>
-      Responsive interfaces, accessibility, and thoughtful interaction design.
-    </td>
-  </tr>
-</table>
-
----
-
-## 🤝 Connect
-
-I'm open to **internships, collaborations, and conversations** about AI, computer vision, and full-stack development.
-
-- GitHub: [@Syed-Nazeer-07](https://github.com/Syed-Nazeer-07)
-- Projects: [World Museum](https://worldmuseum.vercel.app/) · [VisionGuard](https://github.com/Syed-Nazeer-07/VisionGuard)
-
-<div align="center">
-
-### *Building technology with purpose.*
+[GitHub](https://github.com/Syed-Nazeer-07) · [Repositories](https://github.com/Syed-Nazeer-07?tab=repositories) · [Email](mailto:syednazeerofficial2007@gmail.com)
 
 </div>
