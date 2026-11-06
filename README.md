@@ -43,37 +43,49 @@ I'm a B.Tech CSE student (class of **2029**) interested in building reliable, us
 
 ### Selected projects
 
-#### [Finora](https://github.com/Syed-Nazeer-07/Finora) — Personal finance, built end to end
+#### 01 · 💰 Finora
+**Full-stack personal finance platform** · CS50x Final Project
 
-A full-stack finance application for **transactions, budgets, savings goals, investment tracking, and financial dashboards**. Includes Google OAuth, relational data models, and API tests. Built as my **CS50x final project**.
+Built a personal finance application for **transaction tracking, budgets, savings goals, investment records, and financial dashboards**, with Google OAuth authentication, PostgreSQL-backed data models, and API tests.
 
-`Python` · `Flask` · `PostgreSQL` · `SQLAlchemy` · `Tailwind CSS`
+**Stack:** `Python` · `Flask` · `PostgreSQL` · `SQLAlchemy` · `Tailwind CSS`
 
-[**View source →**](https://github.com/Syed-Nazeer-07/Finora)
+**Explore:** [Source code ↗](https://github.com/Syed-Nazeer-07/Finora)
 
-#### [VisionGuard](https://github.com/Syed-Nazeer-07/VisionGuard) — AI traffic intelligence
+---
 
-An **in-development** video analytics platform exploring vehicle detection, object tracking, and incident review. It combines browser-based inference with an optional local Python processing service.
+#### 02 · 🚦 VisionGuard
+**AI traffic intelligence and video analytics** · In development
 
-`React` · `TypeScript` · `FastAPI` · `YOLO` · `ONNX Runtime` · `Supabase`
+Developing a traffic video analysis platform for **vehicle detection, object tracking, and incident review**, using browser-based inference and an optional Python processing backend. Detection and tracking capabilities are still being validated.
 
-[**View source →**](https://github.com/Syed-Nazeer-07/VisionGuard)
+**Stack:** `React` · `TypeScript` · `FastAPI` · `YOLO` · `ONNX Runtime` · `Supabase`
 
-#### [WeatherGPT](https://github.com/NIRANJAN-R062007/WeatherGPT_SIH2026) — Multilingual weather assistant · Team project
+**Explore:** [Source code ↗](https://github.com/Syed-Nazeer-07/VisionGuard)
 
-Contributed to a **Smart India Hackathon 2026** team project built around data-grounded weather answers. My work focused on **GDACS cyclone ingestion**, **Open-Meteo / ERA5 historical climate data**, validation tests, fallbacks, and data-source attribution.
+---
 
-`Python` · `FastAPI` · `GDACS` · `Open-Meteo` · `Pytest`
+#### 03 · 🌦️ WeatherGPT
+**Multilingual weather intelligence assistant** · Smart India Hackathon 2026 · Team project
 
-[**View team repository →**](https://github.com/NIRANJAN-R062007/WeatherGPT_SIH2026)
+Contributed to the team's weather platform by implementing **GDACS tropical cyclone data ingestion** and **Open-Meteo / ERA5 historical climate data integration**, alongside tests, fallbacks, and source attribution.
 
-#### [DecisionOS](https://github.com/Syed-Nazeer-07/DecisionOs) — AI-assisted decision mapping
+**Stack:** `Python` · `FastAPI` · `GDACS` · `Open-Meteo` · `Pytest`
 
-An interactive decision-mapping app that uses LLMs to explore **risks, opportunities, trade-offs, and potential outcomes** through expandable causal trees. Supports local persistence, optional cloud sync, and a no-key demo mode.
+**Explore:** [Team repository ↗](https://github.com/NIRANJAN-R062007/WeatherGPT_SIH2026)
 
-`React` · `JavaScript` · `Supabase` · `Gemini API` · `OpenRouter`
+---
 
-[**Live demo →**](https://decisionos-nine.vercel.app/) · [**Source →**](https://github.com/Syed-Nazeer-07/DecisionOs)
+#### 04 · 🧠 DecisionOS
+**AI-powered decision mapping** · Interactive web application
+
+Created an interactive tool that maps **risks, opportunities, trade-offs, and potential outcomes** as expandable decision trees. Includes AI integrations, local-first persistence, optional cloud sync, and a demo mode.
+
+**Stack:** `React` · `JavaScript` · `Supabase` · `Gemini API` · `OpenRouter`
+
+**Explore:** [Live demo ↗](https://decisionos-nine.vercel.app/) · [Source code ↗](https://github.com/Syed-Nazeer-07/DecisionOs)
+
+---
 
 <details>
 <summary><strong>More projects</strong></summary>
