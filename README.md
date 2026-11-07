@@ -1,107 +1,100 @@
 <div align="center">
 
-# Syed Nazeer S
+# Syed Nazeer
 
 **Software Engineering · Full-Stack Development · Applied AI**
 
-Computer Science & Engineering undergraduate at **Hindustan Institute of Technology & Science, Chennai**.
+B.Tech in Computer Science & Engineering · Hindustan Institute of Technology & Science, Chennai · Class of 2029
 
-*I build thoughtful software—from full-stack products to AI-assisted applications.*
+*Building useful software, learning the fundamentals, and improving through real projects.*
 
 <p>
-  <a href="https://github.com/Syed-Nazeer-07?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-2563EB?style=flat-square&logo=github&logoColor=white" alt="Explore my GitHub repositories" /></a>
-  <a href="mailto:syednazeerofficial2007@gmail.com"><img src="https://img.shields.io/badge/Email_Me-0F172A?style=flat-square&logo=gmail&logoColor=white" alt="Contact me by email" /></a>
+  <a href="https://github.com/Syed-Nazeer-07?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-2563EB?style=flat-square&logo=github&logoColor=white" alt="Explore projects" /></a>
+  <a href="mailto:syednazeerofficial2007@gmail.com"><img src="https://img.shields.io/badge/Get_in_Touch-0F172A?style=flat-square&logo=gmail&logoColor=white" alt="Contact by email" /></a>
 </p>
 
 </div>
 
 ---
 
-### About me
+### 👋 About me
 
-I'm a B.Tech CSE student (class of **2029**) interested in building reliable, useful software. My work spans **Python backends, modern web applications, and applied AI**, with a focus on clean interfaces, practical engineering, and learning by building.
+I'm a computer science undergraduate who enjoys turning ideas into working applications. My projects span **full-stack web development, backend systems, computer vision, and desktop automation**.
 
+I completed **Harvard's CS50x**, building **Finora** as my final project. I'm now deepening my knowledge of **data structures and algorithms, software architecture, and machine learning** while continuing to build, test, and refine practical products.
 
-### Tech stack
+### 🚀 Featured projects
+
+#### [Finora](https://github.com/Syed-Nazeer-07/Finora) · Personal finance platform
+A full-stack app for tracking **transactions, budgets, savings goals, investments, and financial insights**. Built as my **CS50x final project**, with account-based data management and a PostgreSQL backend.
+
+`Python` · `Flask` · `PostgreSQL` · `SQLAlchemy` · `Tailwind CSS`
+
+[Source code](https://github.com/Syed-Nazeer-07/Finora) · [Live application](https://finora-syed-nazeer-ss-projects.vercel.app)
+
+---
+
+#### [VisionGuard](https://github.com/Syed-Nazeer-07/VisionGuard) · Computer vision for traffic video
+A traffic video analysis application combining **browser-based vehicle detection, persistent tracking, session analytics, and incident review**. Includes experimental speed estimates and an optional Python backend; real-world accuracy is still being validated.
+
+`React` · `TypeScript` · `YOLO11` · `ONNX Runtime` · `FastAPI`
+
+[Source code](https://github.com/Syed-Nazeer-07/VisionGuard)
+
+---
+
+#### [Companio](https://github.com/Syed-Nazeer-07/companio) · Animated Windows desktop assistant
+An **Electron-based desktop companion** with customizable characters, a floating overlay, voice/text input, and supported Windows and browser actions. Built-in commands work without a paid AI API key. **Active prototype.**
+
+`Electron` · `React` · `TypeScript` · `Windows Automation`
+
+[Source code](https://github.com/Syed-Nazeer-07/companio)
+
+---
+
+#### [SwiftCart](https://github.com/Syed-Nazeer-07/SwiftCart) · Full-stack e-commerce
+An e-commerce engineering project with **customer authentication, persistent carts, server-priced checkout, inventory-safe order creation, order history, and admin workflows**. A portfolio demo, not a payment-processing store.
+
+`React` · `Node.js` · `Express` · `MongoDB` · `JWT`
+
+[Source code](https://github.com/Syed-Nazeer-07/SwiftCart)
+
+---
+
+### 🌍 More work
+
+| Project | What it explores |
+| --- | --- |
+| **[World Museum](https://github.com/Syed-Nazeer-07/WorldMuseum)** · [Live](https://worldmuseum.vercel.app/) | An interactive museum of Earth's deep history and a contemporary world atlas, built with React and TypeScript. |
+| **[WeatherGPT — SIH 2026](https://github.com/NIRANJAN-R062007/WeatherGPT_SIH2026)** · Team project | Contributed **GDACS cyclone ingestion** and **Open-Meteo / ERA5 historical climate integration**, including validation, fallbacks, and tests. |
+| **[DeveloperDash](https://github.com/Syed-Nazeer-07/DeveloperDash)** | A responsive project and task management dashboard built with Next.js and TypeScript. |
+
+### 🛠️ Technologies I've worked with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,tailwind,flask,nodejs,postgres,mongodb,git&perline=11" alt="Python, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Flask, Node.js, PostgreSQL, MongoDB and Git" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,c,react,nextjs,tailwind,flask,nodejs,postgres,mongodb,git&perline=12" alt="Python, JavaScript, TypeScript, C, React, Next.js, Tailwind CSS, Flask, Node.js, PostgreSQL, MongoDB, Git" />
 </p>
 
-| Area | Technologies |
+| Area | Tools & technologies |
 | --- | --- |
-| **Languages** | Python, JavaScript, TypeScript, C |
-| **Frontend** | React, Next.js, HTML, CSS, Tailwind CSS |
-| **Backend** | Flask, FastAPI, Node.js, Express.js, REST APIs |
-| **Databases & ORM** | PostgreSQL, MongoDB, SQLite, SQLAlchemy, Supabase |
-| **AI & computer vision** | Gemini API, OpenRouter, YOLO, ONNX Runtime, OpenCV |
-| **Engineering tools** | Git, GitHub, Pytest, Vite, Railway, Vercel |
+| **Languages** | Python, JavaScript, TypeScript, C, SQL |
+| **Web & APIs** | React, Next.js, Flask, FastAPI, Node.js, Express, Tailwind CSS |
+| **Data** | PostgreSQL, MongoDB, SQLite, SQLAlchemy |
+| **AI & vision** | YOLO, ONNX Runtime, OpenCV, external AI APIs |
+| **Development** | Git, GitHub, Pytest, Vite, Vercel |
 
-### Selected projects
+### 🎯 Current focus
 
-#### 01 · 💰 Finora
-**Full-stack personal finance platform** · CS50x Final Project
-
-Built a personal finance application for **transaction tracking, budgets, savings goals, investment records, and financial dashboards**, with Google OAuth authentication, PostgreSQL-backed data models, and API tests.
-
-**Stack:** `Python` · `Flask` · `PostgreSQL` · `SQLAlchemy` · `Tailwind CSS`
-
-**Explore:** [Source code ↗](https://github.com/Syed-Nazeer-07/Finora)
-
----
-
-#### 02 · 🚦 VisionGuard
-**AI traffic intelligence and video analytics** · In development
-
-Developing a traffic video analysis platform for **vehicle detection, object tracking, and incident review**, using browser-based inference and an optional Python processing backend. Detection and tracking capabilities are still being validated.
-
-**Stack:** `React` · `TypeScript` · `FastAPI` · `YOLO` · `ONNX Runtime` · `Supabase`
-
-**Explore:** [Source code ↗](https://github.com/Syed-Nazeer-07/VisionGuard)
-
----
-
-#### 03 · 🌦️ WeatherGPT
-**Multilingual weather intelligence assistant** · Smart India Hackathon 2026 · Team project
-
-Contributed to the team's weather platform by implementing **GDACS tropical cyclone data ingestion** and **Open-Meteo / ERA5 historical climate data integration**, alongside tests, fallbacks, and source attribution.
-
-**Stack:** `Python` · `FastAPI` · `GDACS` · `Open-Meteo` · `Pytest`
-
-**Explore:** [Team repository ↗](https://github.com/NIRANJAN-R062007/WeatherGPT_SIH2026)
-
----
-
-#### 04 · 🧠 DecisionOS
-**AI-powered decision mapping** · Interactive web application
-
-Created an interactive tool that maps **risks, opportunities, trade-offs, and potential outcomes** as expandable decision trees. Includes AI integrations, local-first persistence, optional cloud sync, and a demo mode.
-
-**Stack:** `React` · `JavaScript` · `Supabase` · `Gemini API` · `OpenRouter`
-
-**Explore:** [Live demo ↗](https://decisionos-nine.vercel.app/) · [Source code ↗](https://github.com/Syed-Nazeer-07/DecisionOs)
-
----
-
-<details>
-<summary><strong>More projects</strong></summary>
-
-- **[World Museum](https://github.com/Syed-Nazeer-07/WorldMuseum)** — Interactive Earth-history exhibits and World Atlas, built with React and TypeScript. [Live experience](https://worldmuseum.vercel.app/).
-- **[SwiftCart](https://github.com/Syed-Nazeer-07/SwiftCart)** — MERN e-commerce application with products, cart, authentication, and order workflows.
-- **[DeveloperDash](https://github.com/Syed-Nazeer-07/DeveloperDash)** — Project and task dashboard built with Next.js and TypeScript.
-
-</details>
-
-### What I'm working toward
-
-I'm strengthening my foundations in **algorithms, backend engineering, software architecture, and applied machine learning**, while continuing to improve and test the projects I build. I'm interested in **software engineering internships**, technical collaboration, and opportunities to learn from experienced teams.
+- Strengthening **DSA, problem-solving, backend engineering, and system design fundamentals**.
+- Learning **applied machine learning** and building more reliable, well-tested applications.
+- Exploring **software engineering internships, open-source contributions, and collaborative projects**.
 
 ---
 
 <div align="center">
 
-**Build with curiosity. Engineer with care.**
+**Build with curiosity. Engineer with care. Keep improving.**
 
-[GitHub](https://github.com/Syed-Nazeer-07) · [Repositories](https://github.com/Syed-Nazeer-07?tab=repositories) · [Email](mailto:syednazeerofficial2007@gmail.com)
+[GitHub](https://github.com/Syed-Nazeer-07) · [All repositories](https://github.com/Syed-Nazeer-07?tab=repositories) · [Email](mailto:syednazeerofficial2007@gmail.com)
 
 </div>
