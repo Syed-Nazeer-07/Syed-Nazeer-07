@@ -21,7 +21,6 @@ B.Tech in Computer Science & Engineering · Hindustan Institute of Technology & 
 
 I'm a computer science undergraduate who enjoys turning ideas into working applications. My projects span **full-stack web development, backend systems, computer vision, and desktop automation**.
 
-I completed **Harvard's CS50x**, building **Finora** as my final project. I'm now deepening my knowledge of **data structures and algorithms, software architecture, and machine learning** while continuing to build, test, and refine practical products.
 
 ### 🚀 Featured projects
 
