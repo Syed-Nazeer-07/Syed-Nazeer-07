@@ -21,10 +21,6 @@ Computer Science & Engineering undergraduate at **Hindustan Institute of Technol
 
 I'm a B.Tech CSE student (class of **2029**) interested in building reliable, useful software. My work spans **Python backends, modern web applications, and applied AI**, with a focus on clean interfaces, practical engineering, and learning by building.
 
-- **Currently building:** VisionGuard, an AI-assisted traffic video analysis platform.
-- **Team contribution:** WeatherGPT for Smart India Hackathon 2026, focused on cyclone and historical climate data integrations.
-- **Learning:** Data structures and algorithms, system design, and machine learning.
-- **Education:** First-year CGPA **9.23/10** · Completed **Harvard CS50x**.
 
 ### Tech stack
 
