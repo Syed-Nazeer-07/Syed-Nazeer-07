@@ -78,6 +78,6 @@ A collaborative **Smart India Hackathon 2026** project integrating weather and c
 
 **Build with curiosity. Engineer with care. Keep improving.**
 
-[Get in touch](mailto:syednazeerofficial2007@gmail.com)
+
 
 </div>
