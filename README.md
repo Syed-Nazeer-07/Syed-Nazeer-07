@@ -51,22 +51,12 @@ An **Electron-based desktop companion** with customizable characters, a floating
 
 ---
 
-#### [SwiftCart](https://github.com/Syed-Nazeer-07/SwiftCart) · Full-stack e-commerce
-An e-commerce engineering project with **customer authentication, persistent carts, server-priced checkout, inventory-safe order creation, order history, and admin workflows**. A portfolio demo, not a payment-processing store.
+#### [WeatherGPT — SIH 2026](https://github.com/NIRANJAN-R062007/WeatherGPT_SIH2026) · Weather and climate intelligence
+A collaborative **Smart India Hackathon 2026** project integrating weather and climate data. Contributed **GDACS cyclone ingestion** and **Open-Meteo / ERA5 historical climate integration**, including validation, fallbacks, and tests.
 
-`React` · `Node.js` · `Express` · `MongoDB` · `JWT`
-
-[Source code](https://github.com/Syed-Nazeer-07/SwiftCart)
+[Team repository](https://github.com/NIRANJAN-R062007/WeatherGPT_SIH2026)
 
 ---
-
-### 🌍 More work
-
-| Project | What it explores |
-| --- | --- |
-| **[World Museum](https://github.com/Syed-Nazeer-07/WorldMuseum)** · [Live](https://worldmuseum.vercel.app/) | An interactive museum of Earth's deep history and a contemporary world atlas, built with React and TypeScript. |
-| **[WeatherGPT — SIH 2026](https://github.com/NIRANJAN-R062007/WeatherGPT_SIH2026)** · Team project | Contributed **GDACS cyclone ingestion** and **Open-Meteo / ERA5 historical climate integration**, including validation, fallbacks, and tests. |
-| **[DeveloperDash](https://github.com/Syed-Nazeer-07/DeveloperDash)** | A responsive project and task management dashboard built with Next.js and TypeScript. |
 
 ### 🛠️ Technologies I've worked with
 
@@ -81,12 +71,6 @@ An e-commerce engineering project with **customer authentication, persistent car
 | **Data** | PostgreSQL, MongoDB, SQLite, SQLAlchemy |
 | **AI & vision** | YOLO, ONNX Runtime, OpenCV, external AI APIs |
 | **Development** | Git, GitHub, Pytest, Vite, Vercel |
-
-### 🎯 Current focus
-
-- Strengthening **DSA, problem-solving, backend engineering, and system design fundamentals**.
-- Learning **applied machine learning** and building more reliable, well-tested applications.
-- Exploring **software engineering internships, open-source contributions, and collaborative projects**.
 
 ---
 
