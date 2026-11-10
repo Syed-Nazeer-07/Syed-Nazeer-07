@@ -78,6 +78,6 @@ A collaborative **Smart India Hackathon 2026** project integrating weather and c
 
 **Build with curiosity. Engineer with care. Keep improving.**
 
-[GitHub](https://github.com/Syed-Nazeer-07) · [All repositories](https://github.com/Syed-Nazeer-07?tab=repositories) · [Email](mailto:syednazeerofficial2007@gmail.com)
+[GitHub](https://github.com/Syed-Nazeer-07) · [Email](mailto:syednazeerofficial2007@gmail.com)
 
 </div>
